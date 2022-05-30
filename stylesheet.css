@@ -80,7 +80,7 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px
 }
 
@@ -90,7 +90,7 @@ strong {
 }
 
 heading {
-  font-family: Verdana, Helvetica, sans-serif,'Lato';
+  font-family: Helvetica, sans-serif,'Lato','Verdana';
   font-size: 28px;
 }
 
@@ -102,7 +102,7 @@ papertitle {
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 34px;
 }
 
 .one {
