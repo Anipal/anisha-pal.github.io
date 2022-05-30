@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. If you do clone this website, feel free to add an attribution link to your own downstream website in index.html if you want.
+This is the source code to Anisha Pal's public academic website, imspirecd by this website: https://jonbarron.info/.Its currently a static website and work in progress. Feel free to clone this repo for your own personal use. 
