@@ -110,19 +110,15 @@ a {
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #4B0082;
   text-decoration: none;
 }
-
 body,
 td,
 th,
 tr,
-p{
-  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
-  font-size: 14px
-}
-a {
+p,
+a{
   font-family: 'Muli SemiBold',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px;
 }
