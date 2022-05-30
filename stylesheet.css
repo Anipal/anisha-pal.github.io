@@ -96,15 +96,20 @@ body,
 td,
 th,
 tr,
-p,
-a {
+p{
   font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px
+}
+a {
+  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
+  font-size: 14px;
+  font-weight: bolder
 }
 
 strong {
   font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px;
+  font-weight: bolder
 }
 
 heading {
@@ -115,7 +120,7 @@ heading {
 papertitle {
   font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px;
-  font-weight: 700
+  font-weight: bolder
 }
 
 name {
