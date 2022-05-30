@@ -98,7 +98,7 @@ th,
 tr,
 p,
 a {
-  font-family: 'Muli Regular';
+  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px
 }
 
