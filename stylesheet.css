@@ -63,6 +63,118 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+
+@font-face {
+  font-family: 'Muli Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Regular'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Regular.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Italic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli ExtraLight';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli ExtraLight'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraLight.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli ExtraLight Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli ExtraLight Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraLightItalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Light'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Light.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Light Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-LightItalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli SemiBold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli SemiBold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-SemiBold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli SemiBold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli SemiBold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-SemiBoldItalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Bold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Bold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Bold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-BoldItalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli ExtraBold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli ExtraBold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraBold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli ExtraBold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli ExtraBold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraBoldItalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli Black';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Black'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Black.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Muli Black Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Muli Black Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-BlackItalic.woff') format('woff');
+  }
+
 a {
   color: #1772d0;
   text-decoration: none;
@@ -80,28 +192,28 @@ th,
 tr,
 p,
 a {
-  font-family: Verdana, Helvetica, sans-serif,'Lato';
+  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px
 }
 
 strong {
-  font-family: Verdana, Helvetica, sans-serif,'Lato';
+  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px;
 }
 
 heading {
-  font-family: 'Verdana',Helvetica, sans-serif,'Lato';
+  font-family: 'Muli Regular',Verdana,Helvetica, sans-serif,'Lato';
   font-size: 28px;
 }
 
 papertitle {
-  font-family: Verdana, Helvetica, sans-serif,'Lato';
+  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px;
   font-weight: 700
 }
 
 name {
-  font-family: Verdana, Helvetica, sans-serif,'Lato';
+  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 34px;
 }
 
