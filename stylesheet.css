@@ -92,7 +92,6 @@
 @font-face {
   font-family: 'Muli Regular';
   font-style: normal;
-  font-weight: 400;
   src: local('Muli Regular'), local('Muli-Regular'), url(https://fonts.gstatic.com/s/muli/v10/zscZFkjVRGyfQ_Pw-5exXPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
 }
 @font-face {
@@ -119,7 +118,7 @@ th,
 tr,
 p,
 a{
-  font-family: 'Muli SemiBold',Verdana, Helvetica, sans-serif,'Lato';
+  font-family: 'Muli Regular',Verdana, Helvetica, sans-serif,'Lato';
   font-size: 14px;
 }
 
@@ -136,7 +135,8 @@ heading {
 
 papertitle {
   font-family: 'Muli SemiBold',Verdana, Helvetica, sans-serif,'Lato';
-  font-size: 18px;
+  font-size: 16px;
+  color: #022c57;
 
 }
 
