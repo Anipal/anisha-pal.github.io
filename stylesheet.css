@@ -68,7 +68,7 @@
   font-family: 'Muli Regular';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Regular'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Regular.woff') format('woff');
+  src: local('Muli Regular'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli.woff2') format('woff2');
   }
   
 
@@ -76,7 +76,7 @@
   font-family: 'Muli Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Italic.woff') format('woff');
+  src: local('Muli Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Italic.woff2') format('woff2');
   }
   
 
@@ -84,7 +84,7 @@
   font-family: 'Muli ExtraLight';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli ExtraLight'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraLight.woff') format('woff');
+  src: local('Muli ExtraLight'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraLight.woff2') format('woff2');
   }
   
 
@@ -92,7 +92,7 @@
   font-family: 'Muli ExtraLight Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli ExtraLight Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraLightItalic.woff') format('woff');
+  src: local('Muli ExtraLight Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraLightItalic.woff2') format('woff2');
   }
   
 
@@ -100,7 +100,7 @@
   font-family: 'Muli Light';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Light'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Light.woff') format('woff');
+  src: local('Muli Light'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Light.woff2') format('woff2');
   }
   
 
@@ -108,7 +108,7 @@
   font-family: 'Muli Light Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Light Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-LightItalic.woff') format('woff');
+  src: local('Muli Light Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-LightItalic.woff2') format('woff2');
   }
   
 
@@ -116,7 +116,7 @@
   font-family: 'Muli SemiBold';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli SemiBold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-SemiBold.woff') format('woff');
+  src: local('Muli SemiBold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-SemiBold.woff2') format('woff2');
   }
   
 
@@ -124,7 +124,7 @@
   font-family: 'Muli SemiBold Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli SemiBold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-SemiBoldItalic.woff') format('woff');
+  src: local('Muli SemiBold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-SemiBoldItalic.woff2') format('woff2');
   }
   
 
@@ -132,7 +132,7 @@
   font-family: 'Muli Bold';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Bold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Bold.woff') format('woff');
+  src: local('Muli Bold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Bold.woff2') format('woff2');
   }
   
 
@@ -140,7 +140,7 @@
   font-family: 'Muli Bold Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Bold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-BoldItalic.woff') format('woff');
+  src: local('Muli Bold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-BoldItalic.woff2') format('woff2');
   }
   
 
@@ -148,7 +148,7 @@
   font-family: 'Muli ExtraBold';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli ExtraBold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraBold.woff') format('woff');
+  src: local('Muli ExtraBold'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraBold.woff2') format('woff2');
   }
   
 
@@ -156,7 +156,7 @@
   font-family: 'Muli ExtraBold Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli ExtraBold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraBoldItalic.woff') format('woff');
+  src: local('Muli ExtraBold Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-ExtraBoldItalic.woff2') format('woff2');
   }
   
 
@@ -164,7 +164,7 @@
   font-family: 'Muli Black';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Black'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Black.woff') format('woff');
+  src: local('Muli Black'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-Black.woff2') format('woff2');
   }
   
 
@@ -172,7 +172,7 @@
   font-family: 'Muli Black Italic';
   font-style: normal;
   font-weight: normal;
-  src: local('Muli Black Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-BlackItalic.woff') format('woff');
+  src: local('Muli Black Italic'), url('https://github.com/Cadene/pcadene/tree/master/assets/fonts/Muli-BlackItalic.woff2') format('woff2');
   }
 
 a {
