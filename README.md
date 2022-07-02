@@ -1,1 +1,1 @@
-This is the source code to Anisha Pal's public academic website, imspirecd by this website: https://jonbarron.info/.Its currently a static website and work in progress. Feel free to clone this repo for your own personal use. 
+This is the source code to Anisha Pal's public academic website, inspired by this website: https://jonbarron.info/.Its currently a static website and work in progress. Feel free to clone this repo for your own personal use. 
